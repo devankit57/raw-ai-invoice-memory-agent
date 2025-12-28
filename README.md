@@ -194,7 +194,4 @@ This project demonstrates how **agentic memory systems** can responsibly improve
 
 By combining deterministic rules, confidence-based learning, and strong safeguards, the system improves efficiency while remaining transparent, auditable, and safe for real-world financial workflows.
 
----
 
-**Author:** Ankit Mishra  
-**Assignment:** AI Agent Intern – Invoice Memory Layer
