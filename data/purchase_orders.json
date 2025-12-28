@@ -1,0 +1,12 @@
+[
+  {
+    "poNumber": "PO-A-051",
+    "vendor": "Supplier GmbH",
+    "items": [
+      {
+        "sku": "ITEM-1",
+        "qty": 10
+      }
+    ]
+  }
+]
