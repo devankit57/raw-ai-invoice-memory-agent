@@ -1,6 +1,6 @@
 # RAW AI – Invoice Memory Agent 🤖
 
-A memory-driven learning layer for invoice automation that improves over time using explainable, confidence-gated heuristics. 
+A memory-driven learning layer for invoice automation that improves over time using explainable, confidence-gated heuristics.  
 
 ---
 
